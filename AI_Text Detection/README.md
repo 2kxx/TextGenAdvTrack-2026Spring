@@ -1,6 +1,6 @@
 # AI_Text Detection
 
-This is the official code for AI_Text Detection in TextGenAdvTrack, the practice session of the course Artificial Intelligence Security, Attacks and Defenses (UCAS, spring 2025).
+This is the official code for AI_Text Detection in TextGenAdvTrack, the practice session of the course Artificial Intelligence Security, Attacks and Defenses (UCAS, spring 2026).
 
 ## ⚡ How to start quickly
 
