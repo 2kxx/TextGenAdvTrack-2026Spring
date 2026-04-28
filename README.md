@@ -1,7 +1,7 @@
 # ✨ TextGenAdvTrack - Spring 2026
 Hi, every one! 
 
-This is the official repository for TextGenAdvTrack, practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2025.
+This is the official repository for TextGenAdvTrack, practice session of the course **Artificial Intelligence Security, Attacks and Defenses** which is offered to graduate students of UCAS in the spring of 2026.
 
 ## Course infomation
 
